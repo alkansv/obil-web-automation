@@ -1,0 +1,8 @@
+
+# <origin> ve <destination> uçuşu aranır
+* Kalkış lokasyonu <origin> seçilir
+* Varış lokasyonu <destination> seçilir
+* Gidiş tarihi gelecek ayın sondan bir önceki günü seçilir
+* Dönüş tarihi gelecek ayın son günü seçilir
+* Uçak ara butonuna tıklanır
+
